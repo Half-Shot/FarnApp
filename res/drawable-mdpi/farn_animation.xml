@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="41" android:drawable="@drawable/farn1" />
+    <item android:duration="41" android:drawable="@drawable/farn2" />
+    <item android:duration="41" android:drawable="@drawable/farn3" />
+    <item android:duration="41" android:drawable="@drawable/farn4" />
+    <item android:duration="41" android:drawable="@drawable/farn5" />
+    <item android:duration="41" android:drawable="@drawable/farn6" />
+    <item android:duration="41" android:drawable="@drawable/farn7" />
+    <item android:duration="41" android:drawable="@drawable/farn8" />
+    <item android:duration="41" android:drawable="@drawable/farn9" />
+    <item android:duration="41" android:drawable="@drawable/farn10" />
+    <item android:duration="41" android:drawable="@drawable/farn11" />
+    <item android:duration="41" android:drawable="@drawable/farn12" />
+    <item android:duration="41" android:drawable="@drawable/farn13" />
+    <item android:duration="41" android:drawable="@drawable/farn14" />
+    <item android:duration="41" android:drawable="@drawable/farn15" />
+    <item android:duration="41" android:drawable="@drawable/farn16" />
+    <item android:duration="41" android:drawable="@drawable/farn17" />
+    <item android:duration="41" android:drawable="@drawable/farn18" />
+    <item android:duration="41" android:drawable="@drawable/farn19" />
+    <item android:duration="10" android:drawable="@drawable/farn1" />
+</animation-list>
